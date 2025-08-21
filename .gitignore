@@ -1,2 +1,7 @@
 /feature-engineering/
 /model_checkpoints/
+.github/
+/Dataset/
+/feature-engineering-kfold/
+/model_checkpoints_kfold/
+/model_checkpoints_lstm/
